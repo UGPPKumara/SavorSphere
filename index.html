@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags for character set and viewport settings -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Linking external stylesheet for styling -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Title of the HTML document -->
+    <title>SavorSphere</title>
+</head>
+<body>
+    <!-- Header section containing navigation and a heading -->
+    <header>
+        <!-- Navigation bar with site name and links -->
+        <nav>
+            <a href="#">Savor<span>Sphere</span></a>
+            <ul>
+                <!-- Links with onclick events to load different content dynamically -->
+                <li><a href="#" onclick="loadHome()">Home</a></li>
+                <li><a href="#" onclick="loadAddRecipe()">Add Recipe</a></li>
+                <li><a href="#" onclick="loadFavorites()">Favorites</a></li>
+            </ul>
+        </nav>
+        <!-- Heading in the header section -->
+        <h1>Delicious Adventures Await: <span> My Recipe Haven</span></h1>
+    </header>
+
+    <!-- Main content section with an id for dynamic content loading -->
+    <main id="content">
+        <!-- Content will be loaded dynamically here -->
+    </main>
+
+    <!-- Footer section with a copyright notice -->
+    <footer>
+        <p>&copy; 2024 - SavorSphere - My Recipe Book - <span>Prasanna Pushpa Kumara</span></p>
+    </footer>
+
+    <!-- Script tag linking an external JavaScript file for dynamic functionality -->
+    <script src="scripts.js"></script>
+</body>
+</html>
