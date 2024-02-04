@@ -3,7 +3,7 @@
 
 # Preview
 
-Embark on a culinary journey! 🌟 [Click Here](https://ugppkumara.github.io/todoapp/) to savor the flavors with SavorSphere's delightful recipes. 🍽️✨
+Embark on a culinary journey! 🌟 [Click Here](https://ugppkumara.github.io/SavorSphere/) to savor the flavors with SavorSphere's delightful recipes. 🍽️✨
 
 # ScreenShot
 
